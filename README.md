@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Superkidthrilok
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning 8th
+- 🌱 I’m currently learning 10Th
 - 💞️ I’m looking to collaborate on java, css, html
 - 📫 How to reach me 17311@bpsdoha.edu.qa
 
